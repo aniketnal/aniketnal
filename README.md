@@ -19,8 +19,9 @@ I'm excited about:
 
 I'm always on the lookout for good learning resources. Here are some of my favorites:
 
-- CodeWithHarry: Why him? He's the legend :)
-- FreeCodeCamp: All you need!
+- CodeWithHarry
+- FreeCodeCamp
+- CS50
 
 ## 💬 Let's Connect
 
