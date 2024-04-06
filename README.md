@@ -15,12 +15,6 @@ I'm excited about:
 - Contributing to open-source projects.
 - Collaborating with fellow developers.
 
-## 🚀 Upcoming Projects
-
-I'm gearing up to start working on my very first projects! Stay tuned for some exciting coding adventures.
-
-Feel free to explore my repositories for more!
-
 ## 📚 Learning Resources
 
 I'm always on the lookout for good learning resources. Here are some of my favorites:
