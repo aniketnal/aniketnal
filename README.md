@@ -4,7 +4,7 @@ I'm an aspiring developer on a journey to learn and explore new technologies. We
 
 ## 🔭 What I'm Currently Doing
 
-- Learning Sql For Databases and Carrying on with Web Dev 
+- Learning Full Stack Web Dev
 - Building small projects to practice and apply what I've learned.
 
 ## 🌱 Goals
