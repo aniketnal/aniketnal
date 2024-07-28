@@ -1,10 +1,21 @@
-<h2 align="left">Hi 👋! My name is Aniket Nalegaonkar</h2>
+<h1 align="center">Hi 👋, I'm Aniket Nalegaonkar</h1>
+
+###
+<div align="center">
+  <img height="190" src="https://i.pinimg.com/originals/45/91/cb/4591cb6b3c55d6dc7e299112864e2b47.gif"  />
+</div>
 
 ###
 
-<div align="left">
-  <img height="190" src="https://i.pinimg.com/originals/45/91/cb/4591cb6b3c55d6dc7e299112864e2b47.gif"  />
-</div>
+- 🌱 I’m currently learning **NextJS**
+
+- 👯 I’m looking to collaborate on **Full-Stack Projects**
+
+- 💬 Ask me about **C++, SQL, Javascript**
+
+- 📫 How to reach me **aniketnalegaonkar44@gmail.com**
+
+- ⚡ Fun fact: **Gaming is my Happy Place xD**
 
 ###
 
@@ -16,6 +27,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -47,8 +60,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
@@ -57,12 +68,20 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/aniket-nalegaonkar-a866ba252" target="_blank">
+  <a href="https://www.linkedin.com/in/aniket-nalegaonkar-a866ba252/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="aniketnalegaonkar44@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://www.codechef.com/users/aniketnal_44" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" height="35" alt="codechef logo"  />
   </a>
+  <a href="https://codeforces.com/profile/aniketnal" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" height="35" alt="codeforces logo"  />
+  </a>
+  <a href="https://leetcode.com/u/aniketcodes_/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="35" alt="leetcode logo"  />
+  </a>
+  
+  
 </div>
 
 ###
