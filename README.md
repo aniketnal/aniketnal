@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aniket Nalegaonkar</h1>
 
+
 ###
 <div align="center">
-  <img height="190" src="https://i.pinimg.com/originals/45/91/cb/4591cb6b3c55d6dc7e299112864e2b47.gif"  />
+  <img height="130" src="https://i.pinimg.com/originals/45/91/cb/4591cb6b3c55d6dc7e299112864e2b47.gif"  />
+</div>
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aniketnal.aniketnal&left_color=darkslateblue&right_color=tomato&left_text=Viewer%20Count"  />
 </div>
 
 ###
@@ -17,8 +21,7 @@
 
 - ⚡ Fun fact: **Gaming is my Happy Place xD**
 
-###
-
+## 💻 I've Worked on
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img width="12" />
@@ -65,8 +68,7 @@
   <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
 </div>
 
-###
-
+## 💡 Connect
 <div align="left">
   <a href="https://www.linkedin.com/in/aniket-nalegaonkar-a866ba252/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -80,12 +82,9 @@
   <a href="https://leetcode.com/u/aniketcodes_/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="35" alt="leetcode logo"  />
   </a>
-  
-  
 </div>
 
-###
-
+## 📊 Stats
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aniketnal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketnal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -97,8 +96,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aniketnal.aniketnal&left_color=darkslateblue&right_color=tomato&left_text=Viewer%20Count"  />
-</div>
+
 
 ###
