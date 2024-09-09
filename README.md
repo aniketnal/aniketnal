@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **aniketnalegaonkar44@gmail.com**
 
-- ⚡ Fun fact: **Gaming is my Happy Place xD**
+- ⚡ Fun fact: **Gaming is my Happy Place :)**
 
 ## 💻 I've Worked on
 <div align="left">
