@@ -11,7 +11,7 @@
 
 ###
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Competitve Programming**
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
 
