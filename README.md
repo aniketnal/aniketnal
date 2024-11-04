@@ -79,9 +79,6 @@
   <a href="https://codeforces.com/profile/aniketnal" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" height="35" alt="codeforces logo"  />
   </a>
-  <a href="https://leetcode.com/u/aniketcodes_/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="35" alt="leetcode logo"  />
-  </a>
 </div>
 
 ## 📊 Stats
